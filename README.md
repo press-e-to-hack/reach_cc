@@ -1,4 +1,4 @@
-# reach_CC
+# reach_cc
 
 ```sh
 Usage: reach <ip> <port>
